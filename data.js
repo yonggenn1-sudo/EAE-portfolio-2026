@@ -85,7 +85,7 @@ const ACHIEVEMENTS = [
     organisation:       "Singapore International Math Contests Centre (SIMCC)",
     description:        "My team of 4 had a 4-hour timer to complete as many Capture the Flag questions as possible.",
     reflection:         "Since it was my first time in an international competition, I felt determined to do my best and win something for the team. I spent a lot of time and effort on this competition and didn't want it to go to waste.",
-    learningOutcome:    "I realised that learning the concepts alone wouldn't help me find flags, and that I needed to practise actually finding them.",
+    learningOutcome:    "I soon discovered that knowing the concepts wasn't enough—I needed more hands-on practice finding flags through TryHackMe.",
     imagePath:          "",
     certificateImagePath: "images/certificates/ijco-individual-cert.jpg"
   },
