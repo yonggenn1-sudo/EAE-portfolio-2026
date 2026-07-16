@@ -154,8 +154,6 @@ const ACHIEVEMENTS = [
     // original prompt questions, not your reflections. Replace with your own words, e.g.:
     // reflection: "What surprised me most was ... What kept me motivated was ..."
     // learningOutcome: "The foundational concepts I learned were ..."
-    reflection:         "What surprised you most when you first started building games? What kept you motivated?",
-    learningOutcome:    "What foundational game design or coding concepts did you learn?",
     imagePath:          "",
     certificateImagePath: "images/certificates/roblox-l1-cert.jpg"
   },
