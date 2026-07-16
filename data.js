@@ -29,7 +29,7 @@ const STUDENT = {
 
   // ── Profile photo ────────────────────────────────────────
   // Replace with your actual photo path, e.g. "images/me.jpg"
-  profilePhoto:   "images/profile-placeholder.svg",
+  profilePhoto:   "images/Yong En with classbackground.jpg",
 
   // ── Future Goals ─────────────────────────────────────────
   futureGoals: [
